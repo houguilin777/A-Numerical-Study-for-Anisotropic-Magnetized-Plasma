@@ -1,0 +1,1 @@
+# A-Numerical-Study-for-Anisotropic-Magnetized-Plasma
